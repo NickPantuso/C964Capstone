@@ -1,6 +1,7 @@
 # GameSalesPrediction
 
 https://mybinder.org/v2/gh/NickPantuso/C964Capstone/HEAD
+
 Guide:
 1.	Copy the project link into your browser search bar and hit enter, wait for the page to load.
 2.	On the left side of your screen, double click on “C964Task2.ipynb”
@@ -11,11 +12,11 @@ Guide:
 This notebook allows you to view various analytics of over 16,000 video game sales between 2000-2016. There are visualizations of the data as well as a prediction model-
 that can be used to estimate how much money a game could make.
 Included is the document "GameSalesDocument.docx." It includes a project proposal for executives, a project proposal for the IT department, as well as a post-implementation report.
+The business problem this project seeks to resolve is the lack of success on recent games developed.
 
 # What was learned?
 
-* Transferring code to a host to create a public website
-* PHP and a variety of its tools
-* Connecting to and creating a database
-* Improved code organization
-* A few CSS and Javascript elements
+* Python basics
+* Machine learning basics
+* Practice writing project documents
+* Practice applying projects to a potential 'real-world' scenario
