@@ -1,6 +1,6 @@
 # GameSalesPrediction
 
-https://mybinder.org/v2/gh/NickPantuso/C964Capstone/HEAD
+https://mybinder.org/v2/gh/NickPantuso/GameSalesPrediction/HEAD
 
 Guide:
 1.	Copy the project link into your browser search bar and hit enter, wait for the page to load.
