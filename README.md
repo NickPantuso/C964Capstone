@@ -12,7 +12,7 @@ Guide:
 This notebook allows you to view various analytics of over 16,000 video game sales between 2000-2016. There are visualizations of the data as well as a prediction model-
 that can be used to estimate how much money a game could make.
 Included is the document "GameSalesDocument.docx." It includes a project proposal for executives, a project proposal for the IT department, as well as a post-implementation report.
-The business problem this project seeks to resolve is the lack of success on recent games developed.
+The business problem this project seeks to resolve is the lack of success in recent games developed.
 
 # What was learned?
 
