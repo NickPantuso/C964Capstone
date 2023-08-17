@@ -4,7 +4,7 @@
 
 Guide:
 1.	Copy the project link into your browser search bar and hit enter, wait for the page to load.
-2.	On the left side of your screen, double click on “GameSales.ipynb”
+2.	On the left side of your screen, double click on “GameSales.ipynb.” The notebook will open, and in the top right it will say "No Kernel." Wait for it to say "Python 3 (ipykernel)"
 3.	At the top left of your screen, click ‘Kernel,’ then ‘Restart Kernel and Run All Cells…’ and wait for the modules to run (asterisks will appear on the left side of the modules, wait for them to turn into numbers).
 4.	Scroll to view the visualizations and prediction model.
 5.	Once at the bottom, you can use the prediction model to estimate a game’s sales. Click the dropdown menus next to ‘Platform:’ and ‘Genre:’ to choose the desired platform and genre, and then click ‘Estimate Sales’ to view the prediction.
